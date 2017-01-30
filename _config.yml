@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Manuel Alejandro Lara Huerta"
-resume_title:                   "Desarrollador, mecatrónico, profesor"
+resume_name:                    "Manuel Lara Huerta"
+resume_title:                   "FullStack web developer, mecatrónico, profesor"
 resume_contact_email:           "malh04@gmail.com"
 
 # use "yes" to display the email contact button,
